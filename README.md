@@ -63,6 +63,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/3ohs7XmlgV1Vg6urPa/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/3ohs7XmlgV1Vg6urPa/giphy.gif" width="400"/>
 </div>
 
